@@ -9,4 +9,8 @@ public class Main {
     public void doNothing(){
 
     }
+
+    public void doNotingTwo(){
+
+    }
 }
