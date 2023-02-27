@@ -5,4 +5,12 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world! printing");
     }
+
+    public void doNothing(){
+
+    }
+
+    public void doNotingTwo(){
+        //added during release
+    }
 }
